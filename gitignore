@@ -1,0 +1,11 @@
+.settings/
+.project
+.classpath
+
+bin/
+target/
+
+*.log
+*.tmp
+*.swp
+*.bak
